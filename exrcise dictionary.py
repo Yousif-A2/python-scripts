@@ -1,0 +1,1 @@
+student_detail = {"name": "Khaled","Age":20, "Class":"A" , "Std_id":1000 , ""}
